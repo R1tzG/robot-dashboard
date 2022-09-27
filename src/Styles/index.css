@@ -1,0 +1,19 @@
+div {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    padding-left: 10px;
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#data {
+    display: flex;
+    flex-direction: row;
+}
